@@ -43,54 +43,58 @@ Rather than simply storing accepted solutions, this repository documents our com
 # Repository Structure
 
 ```text
-Schrodingers-Bug/
+schrodingers-Bug-ICPC/
 │
 ├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── complexity_cheatsheet.md
+│   └── team_roles.md
+│
+├── templates/
+│   ├── cpp_template.cpp
+│   ├── fast_io.cpp
+│   ├── number_theory/
+│   ├── graphs/
+│   ├── data_structures/
+│   ├── dp/
+│   └── strings/
+│
+├── practice/
+│   ├── arnav/
+│   │   ├── number_theory/
+│   │   ├── combinatorics/
+│   │   ├── probability/
+│   │   ├── dp/
+│   │   └── matrix/
+│   │
+│   ├── Aditya/
+│   │   ├── graphs/
+│   │   ├── trees/
+│   │   └── graph_algorithms/
+│   │
+│   └── Vaibhav/
+│       ├── data_structures/
+│       ├── strings/
+│       └── advanced/
+│
+├── contests/
+│   ├── codeforces/
+│   ├── atcoder/
+│   ├── cses/
+│   └── icpc_virtual/
 │
 ├── notebook/
 │   ├── number_theory.md
 │   ├── combinatorics.md
 │   ├── probability.md
-│   ├── dynamic_programming.md
+│   ├── dp.md
 │   ├── graphs.md
 │   ├── trees.md
 │   ├── data_structures.md
-│   ├── strings.md
-│   ├── geometry.md
-│   ├── advanced_techniques.md
-│   └── contest_patterns.md
-│
-├── templates/
-│   ├── math/
-│   ├── dp/
-│   ├── graphs/
-│   ├── data_structures/
-│   ├── strings/
-│   ├── geometry/
-│   └── misc/
-│
-├── practice/
-│   ├── Codeforces/
-│   ├── CSES/
-│   ├── AtCoder/
-│   ├── USACO/
-│   ├── ICPC/
-│   └── Misc/
-│
-├── contests/
-│   ├── virtual_contests/
-│   ├── codeforces/
-│   ├── icpc_regionals/
-│   └── practice_sessions/
-│
-├── docs/
-│   ├── roadmap.md
-│   ├── progress.md
-│   ├── mistake_journal.md
-│   ├── team_roles.md
-│   └── resources.md
-│
-└── assets/
+│   └── strings.md
 
 ---
 
@@ -181,30 +185,6 @@ No template is copied blindly.
 
 ---
 
-# Learning Philosophy
-
-We follow the following learning cycle:
-
-```text
-Learn
-    ↓
-Understand
-    ↓
-Implement
-    ↓
-Practice
-    ↓
-Analyze
-    ↓
-Generalize
-    ↓
-Master
-```
-
-Our objective is not to memorize algorithms but to develop strong algorithmic intuition.
-
----
-
 # Progress Tracking
 
 Every solved problem contributes to one or more concepts.
@@ -282,7 +262,6 @@ Our primary learning resources include:
 
 * Reach Codeforces Master
 * Develop world-class algorithmic thinking
-* Apply these skills to quantitative research and advanced problem solving
 
 ---
 

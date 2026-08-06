@@ -1,13 +1,12 @@
-````markdown
 # Schrödinger's Bug 🐞
 
 > *"Our code is completely correct until the judge runs the hidden test cases."*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ICPC-Preparation-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Codeforces-Mastery-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge">
+  <img src="[https://img.shields.io/badge/ICPC-Preparation-blue?style=for-the-badge](https://img.shields.io/badge/ICPC-Preparation-blue?style=for-the-badge)">
+  <img src="[https://img.shields.io/badge/Codeforces-Mastery-orange?style=for-the-badge](https://img.shields.io/badge/Codeforces-Mastery-orange?style=for-the-badge)">
+  <img src="[https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge)">
+  <img src="[https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)">
 </p>
 
 ---
@@ -35,9 +34,9 @@ Rather than simply storing accepted solutions, this repository documents our com
 
 | Member | Primary Role | Secondary Role |
 |---------|--------------|----------------|
-| Member 1 | Dynamic Programming • Number Theory • Combinatorics • Probability | Greedy • Binary Search |
-| Member 2 | Graphs • Trees • Graph Algorithms | DP on Graphs • Greedy |
-| Member 3 | Data Structures • String Algorithms • Advanced Techniques | Binary Search • Sorting |
+| Arnav | Dynamic Programming • Number Theory • Combinatorics • Probability | Greedy • Binary Search |
+| Aditya | Graphs • Trees • Graph Algorithms | DP on Graphs • Greedy |
+| Vaibhav | Data Structures • String Algorithms • Advanced Techniques | Binary Search • Sorting |
 
 ---
 
@@ -92,7 +91,6 @@ Schrodingers-Bug/
 │   └── resources.md
 │
 └── assets/
-````
 
 ---
 

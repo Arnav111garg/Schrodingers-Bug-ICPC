@@ -69,6 +69,7 @@ schrodingers-Bug-ICPC/
 - **practice/**: Organized practice problems and solutions for each team member.
 - **notebook/**: Notes and concepts related to different programming topics.
 
+```
 ## Setup Instructions
 
 1. Clone the repository:

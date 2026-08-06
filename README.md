@@ -1,34 +1,9 @@
-# Schrödinger's Bug 🐞
+# Schrödinger's Bug 🐞 
 
 > *"Our code is completely correct until the judge runs the hidden test cases."*
 
-<p align="center">
-  <img src="[https://img.shields.io/badge/ICPC-Preparation-blue?style=for-the-badge](https://img.shields.io/badge/ICPC-Preparation-blue?style=for-the-badge)">
-  <img src="[https://img.shields.io/badge/Codeforces-Mastery-orange?style=for-the-badge](https://img.shields.io/badge/Codeforces-Mastery-orange?style=for-the-badge)">
-  <img src="[https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge)">
-  <img src="[https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)">
-</p>
+Welcome to the Schrodinger's Bug ICPC repository! This project is dedicated to preparing for the International Collegiate Programming Contest (ICPC) as a team. Our goal is to enhance our competitive programming skills through structured practice, documentation, and collaboration.
 
----
-
-# About
-
-Welcome to the official Competitive Programming repository of **Schrödinger's Bug**.
-
-We are a three-member ICPC team preparing rigorously for competitive programming contests, with a long-term goal of becoming strong algorithmic problem solvers.
-
-This repository serves as our:
-
-- 📚 Knowledge Base
-- 💻 Problem Archive
-- 📖 Competitive Programming Notebook
-- ⚡ Contest Template Library
-- 📈 Progress Tracker
-- 🏆 ICPC Preparation System
-
-Rather than simply storing accepted solutions, this repository documents our complete learning journey—from theory and implementation to pattern recognition and contest practice.
-
----
 
 # Team
 
@@ -38,9 +13,9 @@ Rather than simply storing accepted solutions, this repository documents our com
 | Aditya | Graphs • Trees • Graph Algorithms | DP on Graphs • Greedy |
 | Vaibhav | Data Structures • String Algorithms • Advanced Techniques | Binary Search • Sorting |
 
----
 
-# Repository Structure
+## Project Structure
+
 
 ```text
 schrodingers-Bug-ICPC/
@@ -55,12 +30,7 @@ schrodingers-Bug-ICPC/
 │
 ├── templates/
 │   ├── cpp_template.cpp
-│   ├── fast_io.cpp
-│   ├── number_theory/
-│   ├── graphs/
-│   ├── data_structures/
-│   ├── dp/
-│   └── strings/
+│   └── fast_io.cpp
 │
 ├── practice/
 │   ├── arnav/
@@ -80,12 +50,6 @@ schrodingers-Bug-ICPC/
 │       ├── strings/
 │       └── advanced/
 │
-├── contests/
-│   ├── codeforces/
-│   ├── atcoder/
-│   ├── cses/
-│   └── icpc_virtual/
-│
 ├── notebook/
 │   ├── number_theory.md
 │   ├── combinatorics.md
@@ -96,197 +60,51 @@ schrodingers-Bug-ICPC/
 │   ├── data_structures.md
 │   └── strings.md
 
----
 
-# Competitive Programming Roadmap
+- **README.md**: Overview of the project and instructions.
+- **LICENSE**: Licensing information for the project.
+- **.gitignore**: Specifies files and directories to be ignored by Git.
+- **docs/**: Contains documentation such as complexity cheatsheets and team roles.
+- **templates/**: Includes various C++ templates for competitive programming.
+- **practice/**: Organized practice problems and solutions for each team member.
+- **notebook/**: Notes and concepts related to different programming topics.
 
-Our preparation follows a structured curriculum rather than random problem solving.
+## Setup Instructions
 
-## Foundations
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/schrodingers-Bug-ICPC.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd schrodingers-Bug-ICPC
+   ```
+3. Install any necessary dependencies (if applicable).
 
-* Algorithmic Thinking
-* C++ Mastery
-* STL
-* Complexity Analysis
+## How to Contribute
 
-## Core Algorithms
+We welcome contributions from all team members! Please follow these steps to contribute:
 
-* Sorting
-* Binary Search
-* Greedy
-* Prefix Techniques
-* Two Pointers
+1. Fork the repository.
+2. Create a new branch for your feature or fix:
+   ```
+   git checkout -b feature/your-feature-name
+   ```
+3. Make your changes and commit them:
+   ```
+   git commit -m "Add your message here"
+   ```
+4. Push to your branch:
+   ```
+   git push origin feature/your-feature-name
+   ```
+5. Create a pull request to merge your changes into the main branch.
 
-## Mathematics
+## Team Roles
 
-* Number Theory
-* Combinatorics
-* Probability
-* Linear Algebra
+Each team member will have specific roles and responsibilities, which can be found in the `docs/team_roles.md` file. 
 
-## Advanced Algorithms
 
-* Dynamic Programming
-* Graph Theory
-* Trees
-* Graph Algorithms
-* Data Structures
-* String Algorithms
-* Geometry
-* Advanced Techniques
 
-## ICPC Preparation
 
-* Contest Strategy
-* Team Communication
-* Pattern Recognition
-* Virtual Contests
-* Editorial Analysis
-
----
-
-# Problem Solution Format
-
-Every solution follows a common documentation format.
-
-```cpp
-/*
-Problem:
-Platform:
-Difficulty:
-Tags:
-
-Approach:
-
-Time Complexity:
-
-Space Complexity:
-
-Key Idea:
-
-Learnings:
-*/
-```
-
----
-
-# Template Library
-
-Every template in this repository satisfies the following requirements:
-
-* Written from scratch
-* Personally understood
-* Fully tested
-* Contest ready
-* Optimized
-* Commented when necessary
-
-No template is copied blindly.
-
----
-
-# Progress Tracking
-
-Every solved problem contributes to one or more concepts.
-
-We continuously track:
-
-* Problems Solved
-* Topics Mastered
-* Contest Performance
-* Mistake Analysis
-* Revision Status
-
----
-
-# Contest Workflow
-
-For every contest we perform:
-
-* Individual problem classification
-* Team discussion
-* Solution implementation
-* Upsolving
-* Editorial review
-* Mistake documentation
-
----
-
-# Mistake Journal
-
-Every significant mistake is recorded.
-
-Common categories include:
-
-* Observation Error
-* Wrong Algorithm
-* Complexity Misjudgment
-* Edge Cases
-* Overflow
-* Off-by-One Errors
-* Implementation Bugs
-* Debugging Mistakes
-
-The objective is to avoid repeating mistakes.
-
----
-
-# Resources
-
-Our primary learning resources include:
-
-* CP-Algorithms
-* CSES Problem Set
-* AtCoder Educational DP Contest
-* Codeforces
-* USACO Guide
-* ICPC archives
-
----
-
-# Goals
-
-### Short-Term
-
-* Build strong ICPC fundamentals
-* Complete specialization topics
-* Perform well in ICPC regionals
-
-### Mid-Term
-
-* Reach Expert on Codeforces
-* Master advanced algorithms
-* Build a complete competitive programming notebook
-
-### Long-Term
-
-* Reach Codeforces Master
-* Develop world-class algorithmic thinking
-
----
-
-# Repository Principles
-
-We believe in:
-
-* Quality over quantity
-* Understanding over memorization
-* Consistency over intensity
-* Learning from mistakes
-* Writing reusable code
-* Building intuition before optimization
-
----
-
-# License
-
-This repository is intended for educational purposes.
-
-Feel free to explore, learn, and adapt ideas with proper attribution.
-
----
-
-<p align="center">
-Built with dedication by Team <strong>Schrödinger's Bug</strong>.
-</p>
-```
+Let's work together to achieve great results in the ICPC! Happy coding!

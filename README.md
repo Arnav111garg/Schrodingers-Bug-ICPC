@@ -73,7 +73,7 @@ schrodingers-Bug-ICPC/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/schrodingers-Bug-ICPC.git
+   git clone https://github.com/Arnav111garg/schrodingers-Bug-ICPC.git
    ```
 2. Navigate to the project directory:
    ```
@@ -103,8 +103,5 @@ We welcome contributions from all team members! Please follow these steps to con
 ## Team Roles
 
 Each team member will have specific roles and responsibilities, which can be found in the `docs/team_roles.md` file. 
-
-
-
 
 Let's work together to achieve great results in the ICPC! Happy coding!

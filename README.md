@@ -100,6 +100,9 @@ We welcome contributions from all team members! Please follow these steps to con
    ```
 5. Create a pull request to merge your changes into the main branch.
 
+
+
+---
 ## Team Roles
 
 Each team member will have specific roles and responsibilities, which can be found in the `docs/team_roles.md` file. 

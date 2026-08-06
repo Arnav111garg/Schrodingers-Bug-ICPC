@@ -5,7 +5,8 @@
 ---
 
 ## 1. Math, Advanced Theory, Algorithmic Logic, & Dynamic Programming
-**Lead:** Arnav 
+**Lead:** Arnav
+
 **Primary Focus:** Hard mathematical constraints, abstract logic, formal proofs, and algebraic transformations.
 
 * **Dynamic Programming (DP):** Digit DP, Bitmask DP, Tree DP, CHT, SOS DP, Divide & Conquer DP, Monotonic Queue.
@@ -19,6 +20,7 @@
 
 ## 2. Graph Theory & Tree Architecture
 **Lead:** Aditya
+
 **Primary Focus:** Structural queries, graph traversals, tree decompositions, and heavy data structures.
 
 * **Advanced Data Structures:** Segment Trees (Lazy Propagation), Fenwick Trees (BIT), DSU (Rollbacks), Treaps.
@@ -29,7 +31,8 @@
 ---
 
 ## 3. Data Structures, Strings, Geometry & Speed Implementation
-**Lead:**  
+**Lead: Vaibhav**
+
 **Primary Focus:** State-space optimization, pattern matching, spatial algorithms, and early-contest speed solves.
 
 * **String Processing:** KMP, Z-Algorithm, Manacher’s, Suffix Arrays, Suffix Automaton, Aho-Corasick.
